@@ -1,0 +1,3 @@
+rootProject.name = 'cz2events_2349'
+
+include ':app'
